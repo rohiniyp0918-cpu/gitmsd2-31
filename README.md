@@ -3,4 +3,6 @@ HRMS - human resorce management system
 features
     -emp-service
     -payroll-service
+    -leave managemnt
+    
     
